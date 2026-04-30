@@ -2,10 +2,6 @@
 
 <img src="https://github.com/GabDevWork/GabDevWork/blob/main/img/Foto_Apresentacao_GM.png?raw=true" alt="Gabriel Montalvao"/>
 
-<h3 align="left">Sou apaixonado por programação e projetos que fazem a diferença!</h3>
-<p align=right><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzB2dmV0ZDRpaWEzeDVyNmJkbHhqbGlwNTA0ZHJqZHFjNTdqM3F6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="personagem programando" height=100/></p>
-
-<br>
 <div align="middle">
   <div align="middle"> 
   <a href="https://www.instagram.com/gabrielfilipea/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -16,14 +12,21 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
-  
-  <br>
-  
+<br>
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabDevWork&show_icons=true&theme=dracula&locale=en)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabDevWork\&layout=compact&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabdevwork&layout=compact)
 
 </div>
 
+><h3 align="left">Sou apaixonado por programação e projetos que fazem a diferença</h3>
+<table>
+  <tr>
+    <td>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzB2dmV0ZDRpaWEzeDVyNmJkbHhqbGlwNTA0ZHJqZHFjNTdqM3F6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="personagem programando" width=100/>
+    </td>
+    <td>
+      
 - 🔭 Atualmente estou trabalhando com visualização de dados no Power Bi e modernização de arquitetura de dados usando Snowpark. **Arquietura ELT Snowpark**
 
 - 🌱 Atualmente estou especializando em **Machine Learning e DataBricks**
@@ -33,6 +36,10 @@
 - 📫 Como me achar **gabriel.workdev@gmail.com**
 
 - 📄 Siga-me no linkedIn [www.linkedin.com/in/gabriel-fa-montalvao](www.linkedin.com/in/gabriel-fa-montalvao)
+
+    </td>
+  </tr>
+</table>
 
 ><h3 align="left">Conecte-se comigo:</h3>
 <p align="middle">
