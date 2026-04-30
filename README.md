@@ -55,10 +55,10 @@
       <td align="center" width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"><br>Power BI</td>
       <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"><br>Python</td>
       <td align="center" width="120"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"><br>SQL Server</td>
-      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"><br>MySQL</td>
+      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"><br>GCP</td>
       <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"><br>AWS</td>
       <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"><br>Azure</td>
-      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"><br>GCP</td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"><br>MySQL</td>
     </tr>
     <tr>
       <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"><br>Docker</td>
