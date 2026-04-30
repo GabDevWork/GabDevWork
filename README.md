@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Sou o Gabriel Montalvão</h1>
 
-<img src="https://github.com/GabDevWork/GabDevWork/blob/main/img/Foto_Apresentacao_Gabriel.png?raw=true" alt="Gabriel Montalvao"/>
+<img src="https://github.com/GabDevWork/GabDevWork/blob/main/img/Foto_Apresentacao_GM.png?raw=true" alt="Gabriel Montalvao"/>
 
 <h3 align="center">Sou apaixonado por programação e projetos que fazem a diferença</h3>
 
