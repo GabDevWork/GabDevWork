@@ -15,9 +15,9 @@
   <br>  
 
   # Imagem Anurag em formato HTML
-  <img src="https://github-readme-stats.vercel.app/api?username=GabDevWork&show_icons=true&theme=radical&locale=pt-br" alt="Anurag's GitHub stats" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabdevwork&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabdevwork&amp;show_icons=true&amp;theme=radical&amp;locale=pt-br" alt="GitHub stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabdevwork&amp;layout=compact" alt="Top Langs" />
 
 </div>
 
@@ -28,7 +28,8 @@
     <td>
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzB2dmV0ZDRpaWEzeDVyNmJkbHhqbGlwNTA0ZHJqZHFjNTdqM3F6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="personagem programando" width=100/>
     </td>
-    <td>        
+    <td>
+
   - 🔭 Atualmente estou trabalhando com visualização de dados no Power Bi e modernização de arquitetura de dados usando Snowpark. **Arquietura ELT Snowpark**
 
   - 🌱 Atualmente estou especializando em **Machine Learning e DataBricks**
