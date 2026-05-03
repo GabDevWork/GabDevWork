@@ -14,8 +14,10 @@
   </div>
   <br>  
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabDevWork&show_icons=true&theme=radical&locale=pt-br)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabdevwork&layout=compact)
+  # Imagem Anurag em formato HTML
+  <img src="https://github-readme-stats.vercel.app/api?username=GabDevWork&show_icons=true&theme=radical&locale=pt-br" alt="Anurag's GitHub stats" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabdevwork&layout=compact" alt="Top Langs" />
 
 </div>
 
