@@ -20,23 +20,22 @@
 </div>
 
 ><h3 align="left">Sou apaixonado por programação e projetos que fazem a diferença</h3>
+
 <table>
   <tr>
     <td>
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzB2dmV0ZDRpaWEzeDVyNmJkbHhqbGlwNTA0ZHJqZHFjNTdqM3F6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="personagem programando" width=100/>
     </td>
-    <td>
-      
-      - 🔭 Atualmente estou trabalhando com visualização de dados no Power Bi e modernização de arquitetura de dados usando Snowpark. **Arquietura ELT Snowpark**
+    <td>        
+  - 🔭 Atualmente estou trabalhando com visualização de dados no Power Bi e modernização de arquitetura de dados usando Snowpark. **Arquietura ELT Snowpark**
 
-      - 🌱 Atualmente estou especializando em **Machine Learning e DataBricks**
+  - 🌱 Atualmente estou especializando em **Machine Learning e DataBricks**
 
-      - 💬 Me pergunte **Power BI, Excel (VBA) e Python**
+  - 💬 Me pergunte **Power BI, Excel (VBA) e Python**
 
-      - 📫 Como me achar **gabriel.workdev@gmail.com**
+  - 📫 Como me achar **gabriel.workdev@gmail.com**
 
-      - 📄 Siga-me no linkedIn [www.linkedin.com/in/gabriel-fa-montalvao](www.linkedin.com/in/gabriel-fa-montalvao)
-
+  - 📄 Siga-me no linkedIn [www.linkedin.com/in/gabriel-fa-montalvao](www.linkedin.com/in/gabriel-fa-montalvao)
     </td>
   </tr>
 </table>
