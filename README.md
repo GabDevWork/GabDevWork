@@ -2,8 +2,8 @@
 
 <img src="https://github.com/GabDevWork/GabDevWork/blob/main/img/Foto_Apresentacao_GM.png?raw=true" alt="Gabriel Montalvao"/>
 
-<div align="middle">
-  <div align="middle"> 
+<div align="center">
+  <div align="center"> 
     <a href="https://www.instagram.com/gabrielfilipea/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/gabriel-f-a-montalvao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -14,10 +14,10 @@
   </div>
   <br>  
 
-  # Imagem Anurag em formato HTML
-  <img src="https://github-readme-stats.vercel.app/api?username=gabdevwork&amp;show_icons=true&amp;theme=radical&amp;locale=pt-br" alt="GitHub stats" />
+  <!-- O parâmetro &v=1 no final força o GitHub a limpar o cache e carregar a imagem -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gabdevwork&show_icons=true&theme=radical&locale=pt-br&v=1" alt="GitHub stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabdevwork&amp;layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabdevwork&layout=compact&theme=radical&v=2" alt="Top Langs" />
 
 </div>
 
