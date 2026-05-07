@@ -12,11 +12,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </div>
-  <br>  
-
-  <!-- Git Stats Languages Anurag -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabDevWork&layout=compact)
-
+  <br>
+  
 ><h3 align="left">Sou apaixonado por programação e projetos que fazem a diferença</h3>
 
 <table>
