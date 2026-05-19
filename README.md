@@ -2,6 +2,9 @@
 
 <img src="https://github.com/GabDevWork/GabDevWork/blob/main/img/Foto_Apresentacao_GM.png?raw=true" alt="Gabriel Montalvao"/>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GabDevWork&theme=dark)](https://git.io/streak-stats)
+
 <div align="middle">
   <div align="middle"> 
     <a href="https://www.instagram.com/gabrielfilipea/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
