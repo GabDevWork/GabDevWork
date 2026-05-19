@@ -3,7 +3,7 @@
 <img src="https://github.com/GabDevWork/GabDevWork/blob/main/img/Foto_Apresentacao_GM.png?raw=true" alt="Gabriel Montalvao"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GabDevWork&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GabDevWork&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
 <div align="middle">
   <div align="middle"> 
